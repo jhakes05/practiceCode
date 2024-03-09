@@ -1,0 +1,31 @@
+{
+    "user": [
+        {
+            "user_id": 1,
+            "user_name": "junite",
+            "password": "tsukiden+",
+            "role": "instructor",
+            "first_name":"John Dale",
+            "last_name":"Unite",
+            "age": 28
+        },
+        {
+            "user_id": 2,
+            "user_name": "jatillo",
+            "password": "tsukiden+",
+            "role": "student",
+            "first_name": "Jake",
+            "last_name": "Atillo",
+            "age": 22
+        },
+        {
+            "user_id": 3,
+            "user_name": "dinsular",
+            "password": "tsukiden+",
+            "role": "admin",
+            "first_name": "Daniel",
+            "last_name": "Insular",
+            "age": 26
+        }
+    ]
+}
